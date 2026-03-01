@@ -6,13 +6,22 @@
 // ─── FIREBASE CONFIG ─────────────────────────────────────────
 // Replace with your Firebase project config:
 // Firebase console → Project Settings → Your Apps → Web App
+// const FIREBASE_CONFIG = {
+//   apiKey:            "YOUR_API_KEY",
+//   authDomain:        "YOUR_PROJECT.firebaseapp.com",
+//   projectId:         "YOUR_PROJECT_ID",
+//   storageBucket:     "YOUR_PROJECT.appspot.com",
+//   messagingSenderId: "YOUR_SENDER_ID",
+//   appId:             "YOUR_APP_ID"
+// };
 const FIREBASE_CONFIG = {
-  apiKey:            "YOUR_API_KEY",
-  authDomain:        "YOUR_PROJECT.firebaseapp.com",
-  projectId:         "YOUR_PROJECT_ID",
-  storageBucket:     "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId:             "YOUR_APP_ID"
+  apiKey: "AIzaSyAKBzb7iLQQAZOx-FyUEi8DB07KL0kz4ys",
+  authDomain: "job-tracker-ziv.firebaseapp.com",
+  projectId: "job-tracker-ziv",
+  storageBucket: "job-tracker-ziv.firebasestorage.app",
+  messagingSenderId: "10678581970",
+  appId: "1:10678581970:web:1b722cc5b5d33ca4ca8b0b",
+  measurementId: "G-E9RS3E8M0B"
 };
 
 // ─── CONSTANTS ───────────────────────────────────────────────
